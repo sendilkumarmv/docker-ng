@@ -27,5 +27,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Docker
-docker build -t docker-ng
+docker build -t docker-ng <br>
 docker run -dp 3001:3001 docker-ng
