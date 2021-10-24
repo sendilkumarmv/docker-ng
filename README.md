@@ -1,2 +1,4 @@
 # docker-ng
-Angular 11 application with docker
+Containrized Angular application with docker.
+## Important
+nginx.conf is required to run angular app using nginx server in docker.
